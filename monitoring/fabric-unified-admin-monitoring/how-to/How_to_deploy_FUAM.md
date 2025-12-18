@@ -47,7 +47,7 @@ The deployment of FUAM can be done with very little effort, since we tried to au
 
 ## 1. Download Notebook
 
-- Download the [Deploy_FUAM.ipynb](/monitoring/fabric-unified-admin-monitoring/scripts/Deploy_FUAM.ipynb) notebook from script folder locally to you computer.
+- Download the [Deploy_FUAM.ipynb](FUAM_Notebook/Deploy_FUAM.ipynb) notebook from script folder locally to you computer.
 
 ## 2. Prepare your environment
 
